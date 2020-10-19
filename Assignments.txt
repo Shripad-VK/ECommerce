@@ -1,0 +1,10 @@
+1. Install express JS
+
+2. Create a node application using express module. Create a route  to handle /greet request which sends the response as  "Welcome to Web App"
+
+3. In the above application create a route for handling the request /login which sends the userid and password. if userid   is "object" and password is "knowit", send the response as successful  login or else login failed.
+
+4. Repeat the above functionality in a different route by accepting useid and password as routing parameters.
+
+5. Create a general route for handling all the invalid URL requests
+
